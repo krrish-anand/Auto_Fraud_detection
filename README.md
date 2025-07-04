@@ -25,17 +25,26 @@ Our model aims to bridge this gap by using machine learning to analyze transacti
 
 ---
 # 🛠️ Technologies Used
-Python
-
-Scikit-learn
-
-Pandas & NumPy
-
-Matplotlib & Seaborn
-
-Google Colab
+-Python
+-Scikit-learn
+-Pandas & NumPy
+-Matplotlib & Seaborn
+-Google Colab
 
 ---
+## 🧪 Features & Models
+
+- **Data Preprocessing**: Null handling, encoding, feature selection  
+- **Some ML Models Used**:
+  - Logistic Regression  
+  - Random Forest  
+  - Support Vector Machine (SVM)  
+  - K-Nearest Neighbors (KNN)
+- **Model Adopted**: AdaBoost Classifier
+- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, Confusion Matrix  
+
+---
+
 # 📊 Dataset
 Our dataset is transaction-based, collected from open automobile and insurance fraud detection sources. It includes features such as claim history, vehicle information, customer demographics, repair estimates, and incident details. These features help in identifying patterns indicative of fraudulent activities across various auto-related scenarios.
 
