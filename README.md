@@ -8,13 +8,12 @@ This project aims to leverage machine learning algorithms to detect fraudulent a
 https://drive.google.com/file/d/1SS-mXkBvB4Q4BQn2vLiEf9UtIX9QZHVG/view?usp=sharing
 
 ---
-# Team Members
 
-Krrish Anand
+## 👨‍💻 Team Members
 
-Pakhi Agrawal
-
-Vedant DevangKumar
+- **Krrish Anand**  
+- **Pakhi Agrawal**  
+- **Vedant DevangKumar**  
 
 ---
 # 💡 Problem Statement
@@ -30,7 +29,7 @@ Our model aims to bridge this gap by using machine learning to analyze transacti
 - Scikit-learn  
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
-- Jupyter Notebook 
+- Google Colab
 
 ---
 ## 🧪 Features & Models
