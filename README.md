@@ -76,3 +76,13 @@ Our dataset is transaction-based, collected from open automobile and insurance f
 - Continuous learning from new fraud cases to improve model performance
 
 ---
+
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to reach out to any team member via GitHub or Emails as listed below:
+- Krrish Anand: krrish.anand2023@vitstudent.ac.in
+- Pakhi Agrawal: pakhi.agrawal2023@vitstudent.ac.in
+- Vedant DevangKumar: vedant.devangkumar2023@vitstudent.ac.in
+
+---
