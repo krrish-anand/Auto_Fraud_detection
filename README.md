@@ -40,7 +40,7 @@ Our model aims to bridge this gap by using machine learning to analyze transacti
   - Random Forest  
   - Support Vector Machine (SVM)  
   - K-Nearest Neighbors (KNN)
-- **Model Adopted**: AdaBoost Classifier
+- **Model Adopted**: Decision Tree model
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, Confusion Matrix  
 
 ---
