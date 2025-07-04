@@ -5,7 +5,7 @@ This project aims to leverage machine learning algorithms to detect fraudulent a
 
 # Demo Video
 
-https://drive.google.com/file/d/1SS-mXkBvB4Q4BQn2vLiEf9UtIX9QZHVG/view?usp=sharing
+https://drive.google.com/file/d/1T5f6kZzMkx0FRd9uwlW6ySJS6MQYIp--/view?usp=drive_link
 
 ---
 
