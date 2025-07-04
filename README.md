@@ -24,12 +24,13 @@ With the increasing number of automobile-related transactions, fraudulent activi
 Our model aims to bridge this gap by using machine learning to analyze transactional, behavioral, and vehicle-related data to predict and flag potential auto frauds. This system empowers institutions to take proactive, data-driven actions and minimize risks more efficiently and accurately.
 
 ---
-# 🛠️ Technologies Used
--Python
--Scikit-learn
--Pandas & NumPy
--Matplotlib & Seaborn
--Google Colab
+## 🛠️ Technologies Used
+
+- Python  
+- Scikit-learn  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+- Jupyter Notebook 
 
 ---
 ## 🧪 Features & Models
