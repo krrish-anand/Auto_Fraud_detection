@@ -67,3 +67,12 @@ Our dataset is transaction-based, collected from open automobile and insurance f
 
 ---
 
+## ✅ Future Enhancements
+
+-Integration with real-time fraud alert systems for instant action
+-Expansion of dataset to include diverse geographies and fraud types
+-Deployment as a web-based dashboard for insurers and analysts
+-Incorporation of deep learning models for improved accuracy
+-Continuous learning from new fraud cases to improve model performance
+
+---
