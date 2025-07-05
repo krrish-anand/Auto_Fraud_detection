@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1T5f6kZzMkx0FRd9uwlW6ySJS6MQYIp--/view?usp=drive
 
 - **Krrish Anand**  
 - **Pakhi Agrawal**  
-- **Vedant DevangKumar**  
+- **Vedant DevangKumar Patel**  
 
 ---
 # 💡 Problem Statement
